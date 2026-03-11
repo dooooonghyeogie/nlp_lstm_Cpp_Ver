@@ -1,0 +1,3 @@
+C:/Users/이동혁/Desktop/코드/chatting_bot/out/build/x64-debug/CMakeFiles/chatting_bot.dir
+C:/Users/이동혁/Desktop/코드/chatting_bot/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/이동혁/Desktop/코드/chatting_bot/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
